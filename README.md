@@ -1,2 +1,18 @@
-# Unit-Testing-TDD
-A practical example of Unit Testing and TDD (Red-Green-Refactor) in Python using pytest
+
+- نام و نام خانوادگی دانشجو: ثمین رضوی , فاطمه حاجی
+- عنوان پروژه:  Unit-Testing-TDD
+- هدف و کاربرد پروژه:این پروژه یک مثال عملی از **Unit Testing** و**TDD (Test-Driven Development)** است.
+هدف آن نمایش چرخه **Red-Green-Refactor** با استفاده از کتابخانه `pytest` در پایتون است.
+کاربرد آن، آموزش تست‌نویسی خودکار و توسعه مبتنی بر تست برای دانشجویان است.
+
+- توضیح کوتاهی درباره نحوه اجرای برنامه:۱. مطمئن شوید پایتون ۳ نصب است.
+۲. کتابخانه pytest را نصب کنید:
+
+pip install pytest
+۳. تست‌ها را اجرا کنید:
+
+bash
+python -m pytest
+- ابزارها و کتابخانه‌های استفاده‌شده: pytest .Python 3
+
+
