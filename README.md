@@ -10,9 +10,11 @@
 ۲. کتابخانه pytest را نصب کنید:
 
 pip install pytest
+
 ۳. تست‌ها را اجرا کنید:
 
 python -m pytest -v
+
 - ابزارها و کتابخانه‌های استفاده‌شده: pytest .Python 3
 
 
